@@ -29,10 +29,10 @@ func main() {
 }
 
 func exibeIntroducao() {
-	nome := "Douglas"
+	nome := "matheus"
 	idade := 24
 	versao := 1.1
-	fmt.Println("Olá sr.", nome, "sua idade ", idade)
+	fmt.Println("Olá sr.", nome, "sua idade atualmente é ", idade, "anos")
 	fmt.Println("Este programa este na versao", versao)
 
 }
